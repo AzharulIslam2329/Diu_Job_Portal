@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JobportalFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Log Out</string>
+    <string name="logout">Log Out</string>
+    <string name="setting">Setting</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Edit Profile</string>
+    <string name="menu_slideshow">About Us</string>
+    <string name="alumni">Our Alumni Our Pride</string>
+    <string name="foundation">University Foundation Day</string>
+    <string name="alumniname1">Md. Shohel Arman</string>
+    <string name="alumniname1work">Senior Lecturer</string>
+    <string name="alumniins">Daffodil International University</string>
+    <string name="alumniname2">Afjal H. Sarower</string>
+    <string name="alumniname2work">Lecturer</string>
+    <string name="alumniname3">Khan Yasir Arafat</string>
+    <string name="alumniname3work">SQA Engineer</string>
+    <string name="alumniname4">Amin Alam Sarker</string>
+    <string name="alumniname4work">Founder and Software Engineer</string>
+    <string name="branch">Dhanmondi Branch</string>
+    <string name="adress">102/1, Sukrabad Mirpur Rd, Dhaka 1207</string>
+</resources>
